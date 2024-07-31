@@ -3,4 +3,5 @@
 #zhubao315/onlyoffice:v0.0.8
 #rancher/rancher:v2.9-head
 #xprobe/xinference:latest
-neuml/rag:latest
+#neuml/rag:latest
+supabase/realtime:v2.29.15
