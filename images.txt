@@ -4,4 +4,5 @@
 #rancher/rancher:v2.9-head
 #xprobe/xinference:latest
 #neuml/rag:latest
-supabase/realtime:v2.29.15
+#supabase/realtime:v2.29.15
+wiseflow:latest
